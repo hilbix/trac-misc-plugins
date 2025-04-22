@@ -1,9 +1,9 @@
 # Miscellaneous Trac Plugins
 
-These plugins are either in use by me or are written by me.
+These plugins are either in use by me or are written by me:
 
 - If they are written by me, the license is [COPYRIGHT.CLL](./COPYRIGHT.CLL).
-- Else not.
+- Else not.  Probably true for all other submodules.
 
 Have a look directly into the plugins to find out what they are for.
 
@@ -31,3 +31,9 @@ Contact? Bugs? Contrib? Questions?
 - Open Issue or PR on GH
 - Perhaps I listen
 
+Submodules?  Subdirectories?
+
+- This is WiP to probably more easily add all the other plugins I use
+- Currently there are none, but
+  - these certainly need `setup.py`
+  - there will be a suitable `Makefile`
